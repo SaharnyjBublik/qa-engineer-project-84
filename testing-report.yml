@@ -6,3 +6,7 @@
 - summary: |
     Проверка поиска по категории
   status: pass
+
+  - summary: |
+    Проверка поиска по категории
+  status: pass
