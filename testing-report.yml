@@ -14,3 +14,15 @@ status: pass
 - summary: |
     Просмотр товара в каталоге постранично
 status: pass
+
+- summary: |
+    Добавление товара в корзину
+status: pass
+
+- summary: |
+    Продолжить выбор после добавления товаров в корзину
+status: pass
+
+- summary: |
+    Оформление заказа товара
+status: pass
