@@ -1,12 +1,16 @@
 ---
 - summary: |
     Проверка поиска по ключевому слову
-  status: pass
+status: pass
 
 - summary: |
     Проверка поиска по категории
-  status: pass
+status: pass
 
 - summary: |
     Просмотр товара и подробной информации о нем
-  status: pass
+status: pass
+  
+- summary: |
+    Просмотр товара в каталоге постранично
+status: pass
