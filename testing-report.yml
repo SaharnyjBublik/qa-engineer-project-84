@@ -1,28 +1,28 @@
 ---
 - summary: |
     Проверка поиска по ключевому слову
-status: pass
+  status: pass
 
 - summary: |
     Проверка поиска по категории
-status: pass
+  status: pass
 
 - summary: |
     Просмотр товара и подробной информации о нем
-status: pass
+  status: pass
   
 - summary: |
     Просмотр товара в каталоге постранично
-status: pass
+  status: pass
 
 - summary: |
     Добавление товара в корзину
-status: pass
+  status: pass
 
 - summary: |
     Продолжить выбор после добавления товаров в корзину
-status: pass
+  status: pass
 
 - summary: |
     Оформление заказа товара
-status: pass
+  status: pass
