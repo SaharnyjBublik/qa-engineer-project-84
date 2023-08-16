@@ -31,8 +31,7 @@ bugreports:
 - summary: |
     Не переводится наименование и описание товара, при изменении языка на русский
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     1. На любой странице каталога выбать язык "Английский"
     2. На переведенной странице нажать на любой товар
@@ -44,8 +43,7 @@ bugreports:
 - summary: |
     Не работает фильтрация по ключевому слову при выборе русского языка
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     1. На любой странице каталога выбать язык "Russian"
     2. В поле "Поиск" вводим слово "обувь"
@@ -57,8 +55,7 @@ bugreports:
 - summary: |
     Не реализован поиск по рейтингу
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     no steps
   expected-result: |
@@ -69,8 +66,7 @@ bugreports:
 - summary: |
     Поиск по ключевому слову ограничен страницей поиска, а не всеми товарами
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     1. Выбрать язык "English"
     2. На первой странице в поле "Поиск" вводим слово "Ring"
@@ -86,8 +82,7 @@ bugreports:
 - summary: |
     Орфографическая ошибка при заказе товара из корзины
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     1. Добавить любой товар в корзину
     2. Перейти в корзину
@@ -100,8 +95,7 @@ bugreports:
 - summary: |
     Нет возможности корректировки количества товаров в корзине
   environment: |
-    Chrome 115.0.5790.170
-    MacOS Ventura версия 13.4.1
+    Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
   steps-to-reproduce: |
     1. Добавить любой товар в корзину
     2. Перейти в корзину
