@@ -29,7 +29,7 @@ test-cases:
   status: pass
 
 bugreports:
-- summary: |
+ - summary: |
     Не переводится наименование и описание товара, при изменении языка на русский
   environment: |
     Chrome 115.0.5790.170/MacOS Ventura версия 13.4.1
